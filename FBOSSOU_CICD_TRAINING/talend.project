@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_XDDXYFWtEeuMKrA4K5bmzg" label="Fbossou_CICD_Training" language="java" technicalLabel="FBOSSOU_CICD_TRAINING" author="_XDDXYVWtEeuMKrA4K5bmzg" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/fbossou/containerCloud.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_XGnowFWtEeuMKrA4K5bmzg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_XDDXYVWtEeuMKrA4K5bmzg" login="fbossou@talendconsultant" firstName="Franck" lastName="Bossou" type="DQ"/>
+</xmi:XMI>
